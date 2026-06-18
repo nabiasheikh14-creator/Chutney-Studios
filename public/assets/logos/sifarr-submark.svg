@@ -1,0 +1,9 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sifarr circular submark</title>
+  <desc id="desc">Circular Sifarr submark in crimson velvet.</desc>
+  <path d="M346 321C307 356 254 375 197 370C116 364 50 302 38 222C25 133 85 52 172 35" stroke="#620009" stroke-width="22" stroke-linecap="round"/>
+  <path d="M106 255C139 236 165 213 185 185C186 183 188 183 189 185C194 194 202 205 211 219H292C286 203 280 187 273 172C266 156 263 143 266 134C267 131 270 131 272 133C286 151 300 180 313 219H354C350 212 348 205 349 198C350 188 358 178 372 169C374 168 376 170 374 173C368 185 371 196 383 204C386 206 386 211 382 213C361 224 341 230 322 230H213C193 230 174 235 155 245C136 256 120 266 109 274C105 277 101 273 103 269C104 265 105 260 106 255Z" fill="#620009"/>
+  <path d="M220 128L238 109C241 106 246 106 249 109L267 128C270 131 270 136 267 139L249 158C246 161 241 161 238 158L220 139C217 136 217 131 220 128Z" fill="#620009"/>
+  <circle cx="238" cy="191" r="11" fill="#050505"/>
+  <text x="208" y="276" fill="#620009" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="600" letter-spacing="4">SIFARR</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="520" height="150" viewBox="0 0 520 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SpurSol logo</title>
+  <desc id="desc">SpurSol client logo.</desc>
+  <path d="M67 12L119 42V58L67 29L15 58V42L67 12Z" fill="#0879E8"/>
+  <path d="M67 42L119 72V88L67 59L15 88V72L67 42Z" fill="#063B68"/>
+  <path d="M67 72L119 102V118L67 89L15 118V102L67 72Z" fill="#0B243D"/>
+  <path d="M67 29L93 44L67 59L41 44L67 29Z" fill="#050505"/>
+  <text x="150" y="98" fill="#191919" stroke="#F1EEE9" stroke-width="6" paint-order="stroke" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">spur</text>
+  <text x="335" y="98" fill="#0879E8" stroke="#F1EEE9" stroke-width="6" paint-order="stroke" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">sol</text>
+</svg>
